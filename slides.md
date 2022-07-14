@@ -21,7 +21,7 @@ drawings:
   persist: false
 ---
 
-# Welcome to Slidev
+# SSHとは
 
 Presentation slides for developers
 
